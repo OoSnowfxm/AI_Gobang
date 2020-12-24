@@ -1,0 +1,7 @@
+module文件夹中有两个子文件夹:ai和misc
+ai中存放博弈树实现的python类
+misc中存放一些UI相关的python类
+
+resources中存放一些UI相关的图片
+cfg.py实现读取resources中的图片制作成为UI
+main.py是主函数，运行即可得五子棋应用程序
